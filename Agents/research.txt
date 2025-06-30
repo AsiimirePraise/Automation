@@ -1,0 +1,29 @@
+---------RESEARCH OUTPUT----
+TIMESTAMP: 30/06/2025, 12:58:53 
+
+ A satellite or an artificial satellite is an object, typically a spacecraft, placed into orbit around a celestial body. They have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation. Additional military uses are reconnaissance, early warning, signals intelligence and, potentially, weapon delivery. Other satellites include the final rocket stages that place satellites in orbit and formerly useful satellites that later become defunct. Except for passive satellites, most satellites have an electricity generation system for equipment on board, such as solar panels or radioisotope thermoelectric generators (RTGs). Most satellites also have a method of communication to ground stations, called transponders. Many satellites use a standardized bus to save cost and work, the most popular of which are small CubeSats. Similar satellites can work together as groups, forming constellations for specific purposes.
+
+
+---------RESEARCH OUTPUT----
+TIMESTAMP: 30/06/2025, 13:11:32
+
+Satellites are objects placed into orbit around celestial bodies. They serve various purposes like communication, weather forecasting, navigation, broadcasting, scientific research, Earth observation, and more. Learn about the types, applications, and technology behind satellites at https://en.wikipedia.org/wiki/Satellite
+
+
+---------RESEARCH OUTPUT----
+TIMESTAMP: 30/06/2025, 13:11:35
+
+A satellite or an artificial satellite is an object, typically a spacecraft, placed into orbit around a celestial body. They have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation. Additional military uses are reconnaissance, early warning, signals intelligence and, potentially, weapon delivery. Other satellites include the final rocket stages that place satellites in orbit and formerly useful satellites that later become defunct. Except for passive satellites, most satellites have an electricity generation system for equipment on board, such as solar panels or radioisotope thermoelectric generators (RTGs). Most satellites also have a method of communication to ground stations, called transponders. Many satellites use a standardized bus to save cost and work, the most popular of which are small CubeSats. Similar satellites can work together as groups, forming constel
+
+
+---------RESEARCH OUTPUT----
+TIMESTAMP: 30/06/2025, 13:12:16
+
+Satellites have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation. Additional military uses are reconnaissance, early warning, signals intelligence, and potentially weapon delivery. Satellites can be categorized based on their purpose and design, such as communication satellites, weather satellites, navigation satellites (GPS), broadcasting satellites, scientific research satellites, Earth observation satellites, and military satellites.
+
+
+---------RESEARCH OUTPUT----
+TIMESTAMP: 30/06/2025, 13:12:18
+
+Satellites have a variety of uses, including communication relay, weather forecasting, navigation (GPS), broadcasting, scientific research, and Earth observation. Additional military uses are reconnaissance, early warning, signals intelligence, and potentially weapon delivery. Satellites can be categorized based on their purpose and design, such as communication satellites, weather satellites, navigation satellites (GPS), broadcasting satellites, scientific research satellites, Earth observation satellites, and military satellites.
+
